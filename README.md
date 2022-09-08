@@ -16,7 +16,7 @@ This web app will be designed for all NYU students who are interested in getting
 
 ## How?
 
-The app will 
+Given a location and a distance range the app will display all locations where NYU free food is being offered within that range and the time at which that offering began. Users can also create "offers" of free food and post them for other users to see and update their post depending on how much food is left. 
 
 ## Scope
 
