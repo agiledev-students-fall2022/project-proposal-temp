@@ -5,7 +5,7 @@ Jiaming Li, Mark Lung
 
 ## What and why?
 
-What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+Our software idea is inspired by NYU free food facebook page. Instead of constantly checking your phone to find out the where is your next free meal handed out by some random generous NYU club, now you can open our app and post/see posts about newest free food around you on the map, and take more advantages of NYU clubs.
 
 ## For whom?
 
