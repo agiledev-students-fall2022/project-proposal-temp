@@ -9,11 +9,11 @@ Our software idea is inspired by NYU free food facebook page. Instead of constan
 
 ## <center> For whom?</center>
 
-This web app will be designed for all NYU students who are interested in getting free food.
+This web app will be designed for all NYU students who are interested in getting free food, or for people who want see where free food is located near their location.
 
 ## <center>How?</center>
 
-Given a location and a range, the app will display all locations where NYU free food is being offered within that range and the time at which that offering began. Users can also create "offers" of free food and post them for other users to see and update their post depending on how much food is left. 
+Given a location and a range, the app will display all locations where NYU free food is being offered within that range and the time at which that offering began. Users can also create "offers" of free food and post them for other users to see and update their post depending on how much food is left. Submissions are automatically removed after a certain time period.
 
 ## <center>Scope</center>
 
