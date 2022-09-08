@@ -1,7 +1,10 @@
 ## Team Members
+
 Jiaming Li, Mark Lung
 
 ## Project Title
+
+Where Da Food at?
 
 ## What and why?
 
@@ -13,7 +16,7 @@ This web app will be designed for all NYU students who are interested in getting
 
 ## How?
 
-A description of what the system will do from an end-user's perspective. Be as complete as necessary to fully explain the system, but do not worry about technical implementation - this will be developed in subsequent work.
+The app will 
 
 ## Scope
 
