@@ -5,7 +5,7 @@
 
 ## <center> What and why? </center>
 
-Our software idea is inspired by NYU free food facebook page. Instead of constantly checking your phone to find out the where is your next free meal handed out by some random generous NYU club, now you can open our app and post/see posts about newest free food around you on the map, and take more advantages of NYU clubs. 
+Our software idea is inspired by NYU free food facebook page. Instead of constantly checking your phone to find out where is your next free meal handed out by some random generous NYU club, now you can open our app and post/see info about the newest free food around you on the map, and take more advantages of NYU clubs. 
 
 ## <center> For whom?</center>
 
