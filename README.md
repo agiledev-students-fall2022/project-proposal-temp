@@ -3,6 +3,10 @@ Jiaming Li, Mark Lung
 
 ## Project Title
 
+## What and why?
+
+What software system would you like to build this semester, and why? Include a description of what problem the system would solve and why this is important.
+
 ## For whom?
 
 Who will this software be for? These people are your end-users or customers.
