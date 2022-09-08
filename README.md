@@ -5,15 +5,11 @@ Jiaming Li, Mark Lung
 
 ## What and why?
 
-Our software idea is inspired by NYU free food facebook page. Instead of constantly checking your phone to find out the where is your next free meal handed out by some random generous NYU club, now you can open our app and post/see posts about newest free food around you on the map, and take more advantages of NYU clubs.
+Our software idea is inspired by NYU free food facebook page. Instead of constantly checking your phone to find out the where is your next free meal handed out by some random generous NYU club, now you can open our app and post/see posts about newest free food around you on the map, and take more advantages of NYU clubs. 
 
 ## For whom?
 
-Who will this software be for? These people are your end-users or customers.
-
-Do not make software for imaginary users who do not exist - you must have real people as your initial end-users. Tell us who they are. For example, is it for a particular type of business, mass consumer, a campus office, a professor, or friends or family, or ... people just like you.
-
-Understanding who your end-users are, and ideally speaking with some along the way, will help you refine your designs to be suitable for your audience, and understand whether you have succeeded at the end or not.
+This web app will be designed for all NYU students who are interested in getting free food
 
 ## How?
 
