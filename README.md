@@ -20,7 +20,6 @@ Given a location and a range, the app will display all locations where NYU free 
 The app will not be too easy since we have at least several things to verify:
 - The user's identity as a NYU student (email or netID).
 - The authenticity of a post by setting a lowest number on how many students have to post "free food is here" within a certain distance range.
-- The validity of an account by banning phishers who get reported by other accounts.
 
 The app will not be too ambitious either since:
 - The app is only facing NYU stduents and the map range would be ratherly small.
