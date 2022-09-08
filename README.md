@@ -13,13 +13,15 @@ This web app will be designed for all NYU students who are interested in getting
 
 ## <center>How?</center>
 
-Given a location and a range, the app will display all locations where NYU free food is being offered within that range and the time at which that offering began. Users can also create "offers" of free food and post them for other users to see and update their post depending on how much food is left. Submissions are automatically removed after a certain time period.
+Given a location and a range, the app will display all locations where NYU free food is being offered within that range and the time at which that offering began. Users can also create "offers" of free food and the estimated amount of people the food will feed and post them for other users to see. These posts can be updatd depending on how much food is left. Submissions are automatically removed after a certain time period.
 
 ## <center>Scope</center>
 
-The app will not be too easy since we have at least several things to verify:
+The app will not be too easy since we have at least several things to check:
 - The user's identity as a NYU student (email or netID).
-- The authenticity of a post by setting a lowest number on how many students have to post "free food is here" within a certain distance range.
+- The area from which the user will locate the free food.
+- The time at which the post was created as well as query from the databse to update how their posts.
+
 
 The app will not be too ambitious either since:
 - The app is only facing NYU stduents and the map range would be ratherly small.
