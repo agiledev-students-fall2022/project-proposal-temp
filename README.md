@@ -9,7 +9,7 @@ Our software idea is inspired by NYU free food facebook page. Instead of constan
 
 ## For whom?
 
-This web app will be designed for all NYU students who are interested in getting free food
+This web app will be designed for all NYU students who are interested in getting free food.
 
 ## How?
 
